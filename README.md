@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am a bookworm and I am not boring.**
 
-- 📝 I regularly write articles on **[padmapiyush.guthub.io](padmapiyush.guthub.io)**
+- 📝 I regularly write articles on **[padmapiyush.github.io](padmapiyush.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
