@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E12AQEILpFSRuf7ig/article-cover_image-shrink_720_1280/0/1613744920933?e=1675900800&v=beta&t=NtY86AKI-lrLrRAYjVr3m-ZYarR-KwSrB8iPEZJB_po)
+![MasterHead](https://github.com/Padmapiyush/Padmapiyush/blob/main/Motivation%20March%20Banner.png)
 <h1 align="center">Hi 👋, I'm Padmapiyush Pathak</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
