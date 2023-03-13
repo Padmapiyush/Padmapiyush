@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Padmapiyush/Padmapiyush/blob/main/Motivation%20March%20Banner%20(1)%20(1).png)
+![MasterHead](https://github.com/Padmapiyush/Padmapiyush/blob/main/Motivation%20March%20Banner%20(2)%20(1).png)
 <h1 align="center">Hi 👋, I'm Padmapiyush Pathak</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Padmapiyush/illustrations/blob/main/3d/casual-life-3d-young-man-surrounded-by-gadgets-taking-notes.png">
