@@ -41,7 +41,7 @@
 <p><a href="https://www.buymeacoffee.com/padmapiyush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="padmapiyush" /></a></p><br><br><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=padmapiyush&theme=swift&hide_border=false&include_all_commits=true&count_private=false&bg_color=FFFFFF)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=padmapiyush&theme=swift&hide_border=false&bg_color=00000000)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=padmapiyush&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000)
+![](https://github-readme-streak-stats.herokuapp.com/?user=padmapiyush&theme=swift&hide_border=false&bg_color=FFFFFF)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=padmapiyush&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=FFFFFF)
 
 
