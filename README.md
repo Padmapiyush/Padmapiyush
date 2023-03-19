@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming with DSA using C++**
 
-- 💬 Ask me about **C/C++, Kotlin, Python, SQL, Tableau, web-dev and Android**
+- 💬 Ask me about **C/C++, Python, SQL, Tableau, web-dev and Android**
 
 - 📫 How to reach me **padmpiyush2801@gmail.com**
 
