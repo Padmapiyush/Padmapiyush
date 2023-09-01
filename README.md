@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Padmapiyush/illustrations/blob/main/3d/casual-life-3d-young-man-surrounded-by-gadgets-taking-notes.png">
 
 
-- 🌱 I’m currently learning **Competitive Programming with DSA using C++**
+- 🌱 I’m currently learning **Competitive Programming with DSA using Java**
 
 - 💬 Ask me about **C/C++, Python, SQL, Tableau, web-dev and Android**
 
