@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C/C++, Python, SQL, Tableau, web-dev and Android**
 
-- 📫 How to reach me **padmpiyush2801@gmail.com**
+- 📫 How to reach me **thepadmapiyush@gmail.com**
 
 - ⚡ Fun fact **I am a bookworm and I am not boring.**
 
