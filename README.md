@@ -1,16 +1,22 @@
 ![MasterHead](https://github.com/Padmapiyush/Padmapiyush/blob/main/Motivation%20March%20Banner%20(2)%20(1).png)
 <h1 align="center">Hi 👋, I'm Padmapiyush Pathak</h1>
 <h3 align="center">"Engineering innovation from the heart of India :octocat: <br> one line of code at a time. :keyboard: "</h3>
+
+
+> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Javascript. 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/Padmapiyush/illustrations/blob/main/3d/casual-life-3d-young-man-surrounded-by-gadgets-taking-notes.png">
 
 
-- 🌱 I’m currently learning **Competitive Programming with DSA using Java**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Competitive Programming with DSA using Java**
 
-- 💬 Ask me about **C/C++, Python, SQL, Tableau, web-dev and Android**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **C/C++, Python, SQL, Tableau, web-dev and Android**
 
-- 📫 How to reach me **thepadmapiyush@gmail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; How to reach me **thepadmapiyush@gmail.com**
 
-- ⚡ Fun fact **I am a bookworm and I am not boring.**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Fun fact **I am a bookworm and I am not boring.**
 
 - 📝 Visit me here at **[padmapiyush.github.io](https://padmapiyush.github.io)**
 
@@ -40,8 +46,13 @@
   <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/padmapiyush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="padmapiyush" /></a></p><br><br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=padmapiyush&theme=swift&hide_border=false&include_all_commits=true&count_private=false&bg_color=FFFFFF)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=padmapiyush&theme=swift&hide_border=false&bg_color=FFFFFF)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=padmapiyush&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=FFFFFF)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+![Padmapiyush's Github Stats](https://github-readme-stats.vercel.app/api?username=padmapiyush&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Padmapiyush's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=padmapiyush&theme=swift)](https://git.io/streak-stats)
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+ Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
