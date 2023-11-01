@@ -10,9 +10,9 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Padmapiyush/illustrations/blob/main/3d/casual-life-3d-young-man-surrounded-by-gadgets-taking-notes.png">
 
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Competitive Programming with DSA using Java**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Data Visualization using Tableau and PowerBI**
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **C/C++, Python, SQL, Tableau, web-dev and Android**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Data Analytics, Visualization and Problem Solving**
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; How to reach me **thepadmapiyush@gmail.com**
 
