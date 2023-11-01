@@ -1,9 +1,9 @@
 ![MasterHead](https://github.com/Padmapiyush/Padmapiyush/blob/main/Motivation%20March%20Banner%20(2)%20(1).png)
 <h1 align="center">Hi 👋, I'm Padmapiyush Pathak</h1>
-<h3 align="center">"Engineering innovation from the heart of India :octocat: <br> one line of code at a time. :keyboard: "</h3>
+<h3 align="center">"Engineering innovation from the heart of India :octocat: <br> Where Data Speaks, Analysts Listen. :keyboard: "</h3>
 
 
-> Exploring the realms of curiosity and constant enthusiasm, I'm a perpetual student who spends the majority of my time crafting intricate code, particularly in the captivating realm of JavaScript. Join me on this coding adventure, and let's bring our ideas to life together! 
+> Delving into the realms of curiosity and perpetual learning, I am a dedicated data analyst who spends a significant portion of my time unraveling intricate datasets, particularly in the dynamic realm of data analysis. Join me on this analytical journey, and together, let's transform raw data into meaningful insights and unlock the stories it has to tell!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
