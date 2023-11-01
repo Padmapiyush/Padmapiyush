@@ -26,8 +26,8 @@
 <a href="https://instagram.com/thepadmapiyush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.16.1/icons/instagram.svg" alt="padmapiyush" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/padmapiyush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.16.1/icons/linkedin.svg" alt="thepadmapiyush" height="30" width="30" /></a>&nbsp;  
 <a href="http://discord.com/users/padmapiyush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.16.1/icons/discord.svg" alt="padmapiyush" height="40" width="30" /></a>&nbsp;
-<a href="https://www.hackerrank.com/padmapiyush"><img align="center" alt="HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.16.1/icons/hackerrank.svg" /></a>
-<a href="https://www.leetcode.com/padmapiyush"><img align="center" alt="Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.16.1/icons/leetcode.svg" /></a>  
+<a href="https://www.kaggle.com/padmapiyush"><img align="center" alt="Kaggle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.16.1/icons/kaggle.svg" /></a>
+<a href="https://public.tableau.com/app/profile/padmapiyush.pathak/vizzes"><img align="center" alt="Tableau" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.16.1/icons/tableau.svg" /></a>
 </p>
 
 
