@@ -1,18 +1,17 @@
 ![MasterHead](https://github.com/Padmapiyush/Padmapiyush/blob/main/Motivation%20March%20Banner%20(2)%20(1).png)
 <h1 align="center">Hi 👋, I'm Padmapiyush Pathak</h1>
-<h3 align="center">"Engineering innovation from the heart of India :octocat: <br> Where Data Speaks, Analysts Listen. :keyboard: "</h3>
+<h3 align="center">Data Engineer :octocat: <br> Azure & Databricks | Automating the Data Lifecycle :keyboard: </h3>
 
 
-> Delving into the realms of curiosity and perpetual learning, I am a dedicated data analyst who spends a significant portion of my time unraveling intricate datasets, particularly in the dynamic realm of data analysis. Join me on this analytical journey, and together, let's transform raw data into meaningful insights and unlock the stories it has to tell!
+> I build scalable data systems that transform raw data into production-ready insights. Currently focused on optimizing ETL performance and mastering Infrastructure as Code.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Padmapiyush/illustrations/blob/main/3d/casual-life-3d-young-man-surrounded-by-gadgets-taking-notes.png">
+<img align="right" alt="Coding" width="300" src="https://github.com/Padmapiyush/illustrations/blob/main/3d/casual-life-3d-young-man-surrounded-by-gadgets-taking-notes.png">
 
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **AWS Data Specialization & Advanced Airflow Orchestration.**
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Data Visualization using Tableau and PowerBI**
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Data Analytics, Visualization and Problem Solving**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Azure Data Factory, Databricks (PySpark), Terraform**
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; How to reach me **thepadmapiyush@gmail.com**
 
@@ -43,7 +42,11 @@
 
 ## Activity Graph:
 
-[![Padmapiyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Padmapiyush&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ## Here's some humor for you:
  
